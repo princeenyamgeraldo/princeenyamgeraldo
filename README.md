@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Prince Enyam Geraldo
 
-<!--
-**princeenyamgeraldo/princeenyamgeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Regional Maritime University, Ghana, interested in understanding how technology works and building practical solutions.
 
-Here are some ideas to get you started:
+I'm particularly interested in software development, artificial intelligence, Linux, networking and systems engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+
+- **Jarvis:** Developing a personal AI assistant using Python and locally hosted language models through Ollama.
+- **Personal Homelab:** Building and maintaining a self-hosted environment using Ubuntu Linux, Docker and various services.
+
+## Technical Interests
+
+- Software Development
+- Artificial Intelligence and Local LLMs
+- Linux and Server Administration
+- Computer Networking
+- Systems Engineering
+- Cybersecurity
+
+## Technologies I've Worked With
+
+- Python
+- C++
+- SQL / SQLite
+- Linux
+- Docker
+- Git and GitHub
+- Ollama
+
+## A Little About Me
+
+I enjoy experimenting with technology, learning how systems work beneath the surface, and turning theoretical knowledge into practical experience.
+
+I'm currently focused on improving my technical abilities, contributing to meaningful projects and gaining professional experience.
